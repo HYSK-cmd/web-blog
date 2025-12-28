@@ -1,20 +1,12 @@
 # Virtual environment
 .venv/
-venv/
-env/
 
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-.Python
-dist/
-build/
 
-# IDE
-.vscode/
-.idea/
+# Environment
+.env
 
 # OS
 .DS_Store
-Thumbs.db
+
